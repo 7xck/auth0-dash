@@ -1,4 +1,4 @@
-Implementation of Dash app behind 0auth.
+Implementation of Dash app behind auth0.
 
 This is one of the ways you can require authentication before accessing a dash dashboard.
 
